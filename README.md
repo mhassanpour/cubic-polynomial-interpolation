@@ -9,5 +9,10 @@ own coefficients.
 This code calculate coefficients of each curves and interpolate according to time.
 
 
+For example you can use main
+
+
+
+
 
 
